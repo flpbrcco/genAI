@@ -1,2 +1,5 @@
 .genAI
 .env
+.lib
+.scripts
+.share
